@@ -65,4 +65,8 @@ if (totalAmount >= 100) {
 
     console.log("Je krijgt gratis bitterballen.");
 
+} else {
+
+    console.log("Een beetje doordrinken om mee te doen aan de jubileum-actie!")
+
 }
